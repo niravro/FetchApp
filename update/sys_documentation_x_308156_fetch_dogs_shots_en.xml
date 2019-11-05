@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="shots" label="Shots" language="en" table="x_308156_fetch_dogs">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>shots</element>
+            <help/>
+            <hint/>
+            <label>Shots</label>
+            <language>en</language>
+            <name>x_308156_fetch_dogs</name>
+            <plural>Shots</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-05 16:56:32</sys_created_on>
+            <sys_id>0fd76d7fdb340010dc3456086896198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Shots</sys_name>
+            <sys_package display_value="Fetch" source="x_308156_fetch">4f8425bbdb340010dc3456086896199e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fetch">4f8425bbdb340010dc3456086896199e</sys_scope>
+            <sys_update_name>sys_documentation_x_308156_fetch_dogs_shots_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-05 16:56:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

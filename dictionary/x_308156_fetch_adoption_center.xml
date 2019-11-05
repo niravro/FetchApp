@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Adoption Center" max_length="40" name="x_308156_fetch_adoption_center" type="collection">
+        <element label="Email" max_length="100" name="email" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+    </element>
+</database>
